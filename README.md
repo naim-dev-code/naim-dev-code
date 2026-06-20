@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Jannatul Naeim 👋
 
-<!--
-**naim-dev-code/naim-dev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer from Bangladesh 🇧🇩
 
-Here are some ideas to get you started:
+I build modern and responsive web applications using HTML, CSS, Tailwind CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript
+* Git
+* GitHub
+
+## 📚 Currently Learning
+
+* React
+* Full Stack Development
+* Modern JavaScript
+
+## 🎯 Goals
+
+* Become a Professional Web Developer
+* Build Real World Projects
+* Start Freelancing
+* Learn Full Stack Development
+
+## 🛠 Current Projects
+
+* Todo App
+* Notes App
+* Calculator App
+* Portfolio Website
+
+## 📫 Connect With Me
+
+* GitHub: @naim-dev-code
+
+## ⚡ Fun Fact
+
+I enjoy building projects and improving my coding skills every day.
