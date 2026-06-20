@@ -1,4 +1,4 @@
-# Hi, I'm Jannatul Naeim 👋
+# Hi, I'm Jannatul Naim 👋
 
 ### Frontend Developer from Bangladesh 🇧🇩
 
